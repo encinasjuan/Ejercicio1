@@ -1,1 +1,17 @@
 Inteligencia Artificial
+¿Que es la inteligencia artificial?
+
+La inteligencia artificial (IA) es una tecnología que permite a las computadoras o programas imitar la inteligencia humana, aprendiendo, resolviendo problemas y tomando decisiones.
+
+Ejemplos de chats con IA:
+
+* ChatGPT: Responde preguntas, ayuda a estudiar y genera textos.
+* Siri (Apple): Asistente que responde preguntas y realiza tareas por voz.
+* Google Assistant: Puede buscar información, enviar mensajes y controlar dispositivos.
+
+Para qué puede ser útil:
+
+* Resolver dudas y aprender sobre distintos temas.
+* Ayudar a redactar textos, emails o trabajos.
+* Automatizar tareas repetitivas, como organizar calendarios o responder clientes.
+* Brindar entretenimiento o acompañamiento mediante conversación.
